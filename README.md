@@ -32,7 +32,7 @@
      python bbq_monitoring.py
      ```
 
-   ![Console Screenshot](https://github.com/DesireeEDU/streaming-05-smart-smoker/blob/main/console_screenshot.png)
+   ![Console Screenshot](https://.png)
 
 4. Monitor RabbitMQ Queues:
 
