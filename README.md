@@ -10,12 +10,14 @@
 - `requirements.txt`: File listing the dependencies required by the project.
 - `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
 
+**Data Collection:**
 
 **Data Source:**
 
 [Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
 
-**Data Collection:**
+**Features:**
+
 ![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements%20(11).png)
 
 **Features:**
