@@ -11,9 +11,9 @@
 - `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
 
 
-**Data Sources:**
+**Data Source:**
 
-[Body Fat Prediction Data Set (Kaggle)](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  
+[Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  Kaggle.com
 
 **Data Collection:**
 
