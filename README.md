@@ -19,7 +19,7 @@
 
 **Features:**
 
-![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements%20(11).png)
+![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
 
 **Features:**
 
