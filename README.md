@@ -11,9 +11,9 @@
 - `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
 
 
-**Data Sources (Potential):**
+**Data Sources:**
 
-[Open ML: bodyfat](https://www.openml.org/search?type=data&status=active&id=560&sort=runs)  
+[Body Fat Prediction Data Set (Kaggle)](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  
 
 **Data Collection:**
 
