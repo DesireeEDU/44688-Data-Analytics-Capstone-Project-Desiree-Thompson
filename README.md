@@ -7,7 +7,7 @@
 **File Structure:**
 
 - `requirements.txt`: File listing the dependencies required by the project.
-- '.gitignore': Specifies which files are to be ignored during a commit. 
+- `.gitignore`: Specifies which files are to be ignored during a commit. 
 
 **Data Sources (Potential):**
 
