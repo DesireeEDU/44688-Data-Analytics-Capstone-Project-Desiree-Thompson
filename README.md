@@ -8,7 +8,7 @@
 
 - `.gitignore`: Specifies which files are to be ignored during a commit. 
 - `requirements.txt`: File listing the dependencies required by the project.
-- `data_analytics_capstone_notebook.ipynb`: Includes data cleaning and transformations, exploratory data analysis, and model implementation
+- `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
 
 
 **Data Sources (Potential):**
