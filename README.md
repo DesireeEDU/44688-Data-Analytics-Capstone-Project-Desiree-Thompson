@@ -6,8 +6,10 @@
 
 **File Structure:**
 
-- `requirements.txt`: File listing the dependencies required by the project.
 - `.gitignore`: Specifies which files are to be ignored during a commit. 
+- `requirements.txt`: File listing the dependencies required by the project.
+- `data_analytics_capstone_notebook.ipynb`
+
 
 **Data Sources (Potential):**
 
