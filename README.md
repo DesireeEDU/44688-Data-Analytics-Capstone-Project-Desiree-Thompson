@@ -9,13 +9,17 @@
 - `.gitignore`: Specifies which files are to be ignored during a commit. 
 - `requirements.txt`: File listing the dependencies required by the project.
 - `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
+- `Circumference Measurements.png`: Shows the features that relate to circumference measurements. 
 
+**Data Collection:**
 
 **Data Source:**
 
 [Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
 
-**Data Collection:**![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
+**Features:**
+
+![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements%20(11).png)
 
 **Features:**
 
