@@ -4,6 +4,20 @@
 
 **Description:**
 
+**File Structure:**
+
+- `.gitignore`: Specifies which files are to be ignored during a commit. 
+- `requirements.txt`: File listing the dependencies required by the project.
+- `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
+
+
+**Data Source:**
+
+[Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
+
+**Data Collection:**
+
+![Circumference Measurements](Circumference Measurements.png)
 
 **Features:**
 
