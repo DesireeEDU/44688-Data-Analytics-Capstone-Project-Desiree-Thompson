@@ -16,8 +16,7 @@
 [Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
 
 **Data Collection:**
-
-![Circumference Measurements](Circumference Measurements.png)
+![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
 
 **Features:**
 
