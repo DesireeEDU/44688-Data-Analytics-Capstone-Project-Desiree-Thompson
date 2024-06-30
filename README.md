@@ -97,12 +97,12 @@ In this project, our goal is to develop a machine learning model to estimate bod
 
 2. **Data Cleaning and Preparation:**
    
-   The dataset does not include any missing values and or outliers that would require further handling.
+   - The dataset does not include any missing values and or outliers that would require further handling.
    
-   In preparation for for furhter analysis, three (3) additional features have been added:
-   - BMI
-   - BMI Body Fat
-   - Navy Baody Fat
+   - In preparation for for furhter analysis, three (3) additional features have been added:
+      - BMI
+      - BMI Body Fat
+      - Navy Baody Fat
 
 3. **Exploratory Data Analysis (EDA):**
    - Conduct EDA to understand the distribution of variables, relationships between features, and identify patterns in the data. Utilize visualizations and statistical summaries to gain insights.
