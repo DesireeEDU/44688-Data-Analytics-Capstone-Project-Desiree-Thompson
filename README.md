@@ -57,29 +57,6 @@
      data_analytics_capstone_notebook.ipynb
      ```
 
-   ![Console Screenshot](https://.png)
-
-4. Monitor RabbitMQ Queues:
-
-   - When prompted, you can choose to monitor RabbitMQ queues by typing `y`.
-   - This will open the RabbitMQ Admin interface in your default web browser.
-
-   \*Note:
-
-   - The program will prompt you to monitor RabbitMQ queues. This prompt is controlled by the `show_offer` parameter in the `offer_rabbitmq_admin_site` function.
-   - By default, `show_offer` is set to `True`, meaning you will be asked if you want to monitor the queues. You can change this behavior by setting `show_offer` to `False` when calling the function.
-
-5. Consumer Implementation:
-
-   - Three callback functions are implemented to handle messages from each queue: `smoker_callback`, `foodA_callback`, and `foodB_callback`.
-   - Each callback function processes the received message, extracts the timestamp and temperature, and stores them in a deque with a specific maximum length.
-   - If the conditions for generating alerts are met, the system logs the appropriate alert message.
-   - The main function sets up connections to the RabbitMQ server, declares the listening queues, and starts consuming messages from each queue.
-
-   Conditions:
-
-   - Smoker temperature decreases by more than 15 degrees F in 2.5 minutes (smoker alert)
-   - Any food temperature changes less than 1 degree F in 10 minutes (food stall alert)
 
 **File Structure:**
 
