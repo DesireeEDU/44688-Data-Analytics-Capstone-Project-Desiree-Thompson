@@ -99,7 +99,7 @@ In this project, our goal is to develop a machine learning model to estimate bod
    
    - The dataset does not include any missing values and or outliers that would require further handling.
    
-   - In preparation for for furhter analysis, three (3) additional features have been added:
+   - In preparation for for further analysis, three (3) additional features have been added:
       - BMI
       - BMI Body Fat
       - Navy Baody Fat
