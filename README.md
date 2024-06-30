@@ -93,7 +93,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
 
       The dataset contains anthropometric measurements including weight, height, neck circumference, chest circumference, abdomen circumference, hip circumference, thigh circumference, knee circumference, ankle circumference, biceps circumference, forearm circumference, and wrist circumference. In addition, it           includes actual body fat percentage measured using reliable methods. All measurements are numeric. The data set includes 252 instance and does not have any missing values. The data source is a structured CSV file. 
      
-      ![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
+      ![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/circumference%20_measurements.png)
 
 2. **Data Cleaning and Preparation:**
    
