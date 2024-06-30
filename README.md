@@ -8,6 +8,7 @@
 
 [Body Fat Estimation Using ML Algorithms](https://www.overleaf.com/read/zbrdqhmnqgvt#574be8)
 
+
 **File Structure:**
 
 - `.gitignore`: Specifies which files are to be ignored during a commit. 
@@ -16,12 +17,15 @@
 - `circumference_measurements.png`: Shows the features that relate to circumference measurements.
 - `bodyfat.csv`: Original data set
 - `updated_bodyfat.csv`: Modified data set
+- 
 
 **Data Source:**
 
 [Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
 
+
 **Data Collection:**
+
 
 **Features:**
 
