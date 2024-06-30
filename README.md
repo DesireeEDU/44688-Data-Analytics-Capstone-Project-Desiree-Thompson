@@ -95,7 +95,8 @@ In this project, our goal is to develop a machine learning model to estimate bod
      
       ![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
 
-3. **Data Cleaning and Preparation:**
+2. **Data Cleaning and Preparation:**
+   
    The dataset does not include any missing values and or outliers that would require further handling.
    
    In preparation for for furhter analysis, three (3) additional features have been added:
@@ -103,19 +104,19 @@ In this project, our goal is to develop a machine learning model to estimate bod
    - BMI Body Fat
    - Navy Baody Fat
 
-5. **Exploratory Data Analysis (EDA):**
+3. **Exploratory Data Analysis (EDA):**
    - Conduct EDA to understand the distribution of variables, relationships between features, and identify patterns in the data. Utilize visualizations and statistical summaries to gain insights.
 
-6. **Machine Learning Modeling:**
+4. **Machine Learning Modeling:**
    - Implement machine learning algorithms such as linear regression, decision trees, random forests, or support vector machines (SVMs) to build predictive models for estimating body fat percentage. Evaluate model performance using metrics like Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE).
 
-7. **Advanced Analysis (Module 5 Requirement):**
+5. **Advanced Analysis (Module 5 Requirement):**
    - Showcase advanced skills by potentially exploring more sophisticated techniques such as ensemble methods, neural networks, or feature engineering to enhance model accuracy in predicting body fat percentage.
 
-8. **Presentation of Results and Insights:**
+6. **Presentation of Results and Insights:**
    - Create a professional report using LaTeX detailing project objectives, data sources, cleaning methods, modeling approaches, and results. Include correctly-formatted code blocks to demonstrate technical proficiency.
 
-9. **GitHub Repository:**
+7. **GitHub Repository:**
    - Maintain an active GitHub repository containing all code, data files, notebooks, and documentation related to the project. Ensure clear organization and documentation for reproducibility and review.
 
 ## Deliverables
