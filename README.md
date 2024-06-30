@@ -4,6 +4,10 @@
 
 **Description:**
 
+**Project Report:**
+
+[Body Fat Estimation Using ML Algorithms](https://www.overleaf.com/read/zbrdqhmnqgvt#574be8)
+
 **File Structure:**
 
 - `.gitignore`: Specifies which files are to be ignored during a commit. 
