@@ -13,7 +13,7 @@
 - `.gitignore`: Specifies which files are to be ignored during a commit. 
 - `requirements.txt`: File listing the dependencies required by the project.
 - `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
-- `Circumference Measurements.png`: Shows the features that relate to circumference measurements.
+- `circumference_measurements.png`: Shows the features that relate to circumference measurements.
 - `bodyfat.csv`: Original data set
 - `updated_bodyfat.csv`: Modidied data set
 
