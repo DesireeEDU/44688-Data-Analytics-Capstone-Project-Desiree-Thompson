@@ -17,11 +17,11 @@
 - `bodyfat.csv`: Original data set
 - `updated_bodyfat.csv`: Modified data set
 
-**Data Collection:**
-
 **Data Source:**
 
 [Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
+
+**Data Collection:**
 
 **Features:**
 
