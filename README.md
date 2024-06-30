@@ -125,7 +125,8 @@ In this project, the goal is to develop a machine learning model to estimate bod
 **Author:**
 Desiree Thompson
 
-**Date Updated: June 30, 2024**
+**Date Updated:**
+June 30, 2024**
 
 **Acknowledgments:**
-   - The project utilizes ChatGPT, an AI language model developed by OpenAI, for assistance in writing the README and providing guidance on software engineering practices.
+- The project utilizes ChatGPT, an AI language model developed by OpenAI, for assistance in writing the README and providing guidance on software engineering practices.
