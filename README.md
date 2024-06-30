@@ -17,7 +17,7 @@
 - `circumference_measurements.png`: Shows the features that relate to circumference measurements.
 - `bodyfat.csv`: Original data set
 - `updated_bodyfat.csv`: Modified data set
-- 
+
 
 **Data Source:**
 
@@ -28,7 +28,6 @@
 
 
 **Features:**
-
 ![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
 
 **Features:**
