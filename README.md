@@ -86,32 +86,36 @@ Desiree Thompson
 
 In this project, our goal is to develop a machine learning model to estimate body fat percentage based on anthropometric measurements. Body fat estimation plays a crucial role in health assessment and fitness evaluation, making it a significant application in health analytics.
 
-## Project Goals
+## Project Phases
 
 1. **Data Collection and Description:**
    - [Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
 
-      The dataset contains anthropometric measurements including weight, height, neck circumference, chest circumference, abdomen circumference, hip circumference, thigh circumference, knee circumference, ankle circumference, biceps circumference, forearm circumference, and wrist circumference. In addition, it           includes actual body fat percentage measured using reliable methods. The data set includes 252 instance and does not have any missing values.
+      The dataset contains anthropometric measurements including weight, height, neck circumference, chest circumference, abdomen circumference, hip circumference, thigh circumference, knee circumference, ankle circumference, biceps circumference, forearm circumference, and wrist circumference. In addition, it           includes actual body fat percentage measured using reliable methods. All measurements are numeric. The data set includes 252 instance and does not have any missing values. The data source is a structured CSV file. 
      
       ![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
 
-
 3. **Data Cleaning and Preparation:**
-   - Clean the dataset to handle missing values, outliers, and inconsistencies. Normalize or standardize features as necessary to prepare the data for modeling.
+   The dataset does not include any missing values and or outliers that would require further handling.
+   
+   In preparation for for furhter analysis, three (3) additional features have been added:
+   - BMI
+   - BMI Body Fat
+   - Navy Baody Fat
 
-4. **Exploratory Data Analysis (EDA):**
+5. **Exploratory Data Analysis (EDA):**
    - Conduct EDA to understand the distribution of variables, relationships between features, and identify patterns in the data. Utilize visualizations and statistical summaries to gain insights.
 
-5. **Machine Learning Modeling:**
+6. **Machine Learning Modeling:**
    - Implement machine learning algorithms such as linear regression, decision trees, random forests, or support vector machines (SVMs) to build predictive models for estimating body fat percentage. Evaluate model performance using metrics like Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE).
 
-6. **Advanced Analysis (Module 5 Requirement):**
+7. **Advanced Analysis (Module 5 Requirement):**
    - Showcase advanced skills by potentially exploring more sophisticated techniques such as ensemble methods, neural networks, or feature engineering to enhance model accuracy in predicting body fat percentage.
 
-7. **Presentation of Results and Insights:**
+8. **Presentation of Results and Insights:**
    - Create a professional report using LaTeX detailing project objectives, data sources, cleaning methods, modeling approaches, and results. Include correctly-formatted code blocks to demonstrate technical proficiency.
 
-8. **GitHub Repository:**
+9. **GitHub Repository:**
    - Maintain an active GitHub repository containing all code, data files, notebooks, and documentation related to the project. Ensure clear organization and documentation for reproducibility and review.
 
 ## Deliverables
