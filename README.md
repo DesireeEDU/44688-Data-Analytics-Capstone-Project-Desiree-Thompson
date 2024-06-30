@@ -1,6 +1,6 @@
 # 44688 Data Analytics Capstone Project - Desiree Thompson
 
-**Project Title: Body Fat Estimation in Competitive Physique Athletes**
+**Project Title: Body Fat Estimation Using ML Algorithms**
 
 **Description:**
 
