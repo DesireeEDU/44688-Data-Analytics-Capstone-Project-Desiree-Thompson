@@ -92,6 +92,7 @@ In this project, our goal is to develop a machine learning model to estimate bod
    - [Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
 
       The dataset contains anthropometric measurements including weight, height, neck circumference, chest circumference, abdomen circumference, hip circumference, thigh circumference, knee circumference, ankle circumference, biceps circumference, forearm circumference, and wrist circumference. In addition, it           includes actual body fat percentage measured using reliable methods. The data set includes 252 instance and does not have any missing values.
+     
       ![Circumference Measurements](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Circumference%20Measurements.png)
 
 
