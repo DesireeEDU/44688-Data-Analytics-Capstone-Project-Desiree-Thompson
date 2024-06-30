@@ -121,7 +121,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
 
 ## Deliverables
 
-**Overleaf/LaTex Report:[Body Fat Estimation Using ML Algorithms]([https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson](https://www.overleaf.com/read/zbrdqhmnqgvt#574be8))**
+**Overleaf/LaTex Report: [Body Fat Estimation Using ML Algorithms]([https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson](https://www.overleaf.com/read/zbrdqhmnqgvt#574be8)**
    - Detailed report showcasing professional communication and technical skills.
      
 **GitHub Repository: [44688 Data Analytics Capstone Project](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson)**
