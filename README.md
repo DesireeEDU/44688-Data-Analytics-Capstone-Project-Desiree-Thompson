@@ -3,6 +3,10 @@
 **Project Title: Body Fat Estimation Using ML Algorithms**
 
 **Description:**
+Develop a machine learning model that estimates body fat percentage based on anthropometrics measurements. 
+
+**Project Goals:
+   
 
 **Project Report:**
 
@@ -75,3 +79,37 @@ Desiree Thompson
 **Acknowledgments:**
 
 - The project utilizes ChatGPT, an AI language model developed by OpenAI, for assistance in writing the README and providing guidance on software engineering practices.
+
+# Body Fat Estimation Using Machine Learning Algorithms
+
+## Project Overview
+
+In this project, our goal is to develop a machine learning model to estimate body fat percentage based on anthropometric measurements. Body fat estimation plays a crucial role in health assessment and fitness evaluation, making it a significant application in health analytics.
+
+## Project Goals
+
+1. **Data Collection and Description:**
+   - Gather a comprehensive dataset containing anthropometric measurements such as weight, height, neck circumference, chest circumference, abdomen circumference, hip circumference, thigh circumference, knee circumference, ankle circumference, biceps circumference, forearm circumference, and wrist circumference. Include actual body fat percentage measured using reliable methods.
+
+2. **Data Cleaning and Preparation:**
+   - Clean the dataset to handle missing values, outliers, and inconsistencies. Normalize or standardize features as necessary to prepare the data for modeling.
+
+3. **Exploratory Data Analysis (EDA):**
+   - Conduct EDA to understand the distribution of variables, relationships between features, and identify patterns in the data. Utilize visualizations and statistical summaries to gain insights.
+
+4. **Machine Learning Modeling:**
+   - Implement machine learning algorithms such as linear regression, decision trees, random forests, or support vector machines (SVMs) to build predictive models for estimating body fat percentage. Evaluate model performance using metrics like Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE).
+
+5. **Advanced Analysis (Module 5 Requirement):**
+   - Showcase advanced skills by potentially exploring more sophisticated techniques such as ensemble methods, neural networks, or feature engineering to enhance model accuracy in predicting body fat percentage.
+
+6. **Presentation of Results and Insights:**
+   - Create a professional report using LaTeX detailing project objectives, data sources, cleaning methods, modeling approaches, and results. Include correctly-formatted code blocks to demonstrate technical proficiency.
+
+7. **GitHub Repository:**
+   - Maintain an active GitHub repository containing all code, data files, notebooks, and documentation related to the project. Ensure clear organization and documentation for reproducibility and review.
+
+## Deliverables
+
+- A detailed Overleaf/LaTeX report showcasing professional communication and technical skills.
+- A well-structured GitHub repository with code, data files, notebooks, and documentation, including a clickable link in the report for easy access.
