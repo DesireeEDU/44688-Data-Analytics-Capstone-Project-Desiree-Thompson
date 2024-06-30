@@ -15,7 +15,7 @@
 - `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
 - `circumference_measurements.png`: Shows the features that relate to circumference measurements.
 - `bodyfat.csv`: Original data set
-- `updated_bodyfat.csv`: Modidied data set
+- `updated_bodyfat.csv`: Modified data set
 
 **Data Collection:**
 
