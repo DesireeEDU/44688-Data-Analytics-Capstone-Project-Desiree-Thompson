@@ -54,7 +54,7 @@
    - Item 2
 
      ```
-     python bbq_monitoring.py
+     data_analytics_capstone_notebook.ipynb
      ```
 
    ![Console Screenshot](https://.png)
