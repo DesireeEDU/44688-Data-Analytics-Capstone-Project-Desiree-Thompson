@@ -25,7 +25,7 @@ Develop a machine learning model that estimates body fat percentage based on ant
 
 **Data Source:**
 
-[Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
+
 
 
 **Data Collection:**
@@ -90,6 +90,8 @@ In this project, our goal is to develop a machine learning model to estimate bod
 
 1. **Data Collection and Description:**
    - Gather a comprehensive dataset containing anthropometric measurements such as weight, height, neck circumference, chest circumference, abdomen circumference, hip circumference, thigh circumference, knee circumference, ankle circumference, biceps circumference, forearm circumference, and wrist circumference. Include actual body fat percentage measured using reliable methods.
+
+[Body Fat Prediction Data Set](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)  (Kaggle)
 
 2. **Data Cleaning and Preparation:**
    - Clean the dataset to handle missing values, outliers, and inconsistencies. Normalize or standardize features as necessary to prepare the data for modeling.
