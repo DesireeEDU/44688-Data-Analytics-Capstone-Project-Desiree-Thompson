@@ -1,78 +1,3 @@
-# 44688 Data Analytics Capstone Project - Desiree Thompson
-
-**Project Title: Body Fat Estimation Using ML Algorithms**
-
-**Description:**
-Develop a machine learning model that estimates body fat percentage based on anthropometrics measurements. 
-
-**Project Goals:
-   
-
-**Project Report:**
-
-
-
-
-**File Structure:**
-
-- `.gitignore`: Specifies which files are to be ignored during a commit. 
-- `requirements.txt`: File listing the dependencies required by the project.
-- `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
-- `circumference_measurements.png`: Shows the features that relate to circumference measurements.
-- `bodyfat.csv`: Original data set
-- `updated_bodyfat.csv`: Modified data set
-
-
-**Data Source:**
-
-
-
-
-**Data Collection:**
-
-
-**Features:**
-
-
-**Features:**
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-**Usage:**
-
-1. Step 1
-
-2. Step 2
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the Program:
-
-   - Item 1
-   - Item 2
-
-     ```
-     data_analytics_capstone_notebook.ipynb
-     ```
-
-
-**File Structure:**
-
-- `requirements.txt`: File listing the dependencies required by the project.
-
-**Customization:**
-
-
-**Note:**
-
-
-
 # Body Fat Estimation Using Machine Learning Algorithms
 
 ## Project Overview
@@ -119,6 +44,31 @@ In this project, the goal is to develop a machine learning model to estimate bod
      
 **GitHub Repository: [44688 Data Analytics Capstone Project](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson)**
    - Well-structured GitHub repository with code, data files, notebooks, and documentation, including a clickable link in the report for easy access.
+
+## Usage
+
+**File Structure:**
+- `.gitignore`: Specifies which files are to be ignored during a commit. 
+- `requirements.txt`: File listing the dependencies required by the project.
+- `data_analytics_capstone_notebook.ipynb`: Includes data cleaning, exploratory data analysis, and model implementation.
+- `circumference_measurements.png`: Shows the features that relate to circumference measurements.
+- `bodyfat.csv`: Original data set
+- `updated_bodyfat.csv`: Modified data set
+
+**Steps:**
+1. Step 1
+
+2. Step 2
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Run the Program:
+
+   - Item 1
+   - Item 2
+
 
 ## 
 
