@@ -84,7 +84,7 @@ Desiree Thompson
 
 ## Project Overview
 
-In this project, our goal is to develop a machine learning model to estimate body fat percentage based on anthropometric measurements. Body fat estimation plays a crucial role in health assessment and fitness evaluation, making it a significant application in health analytics.
+In this project, the goal is to develop a machine learning model to estimate body fat percentage based on anthropometric measurements. Body fat estimation plays a crucial role in health assessment and fitness evaluation, making it a significant application in health analytics.
 
 ## Project Phases
 
