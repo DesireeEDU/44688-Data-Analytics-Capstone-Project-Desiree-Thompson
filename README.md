@@ -10,7 +10,7 @@ Develop a machine learning model that estimates body fat percentage based on ant
 
 **Project Report:**
 
-[Body Fat Estimation Using ML Algorithms](https://www.overleaf.com/read/zbrdqhmnqgvt#574be8)
+
 
 
 **File Structure:**
@@ -121,5 +121,6 @@ In this project, the goal is to develop a machine learning model to estimate bod
 
 ## Deliverables
 
-- A detailed Overleaf/LaTeX report showcasing professional communication and technical skills.
+**Overleaf/LaTex Report: [Body Fat Estimation Using ML Algorithms](https://www.overleaf.com/read/zbrdqhmnqgvt#574be8)**
+- Detailed report showcasing professional communication and technical skills.
 - A well-structured GitHub repository with code, data files, notebooks, and documentation, including a clickable link in the report for easy access.
