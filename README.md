@@ -77,7 +77,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
    ```
 
 6. Run the Program:
-   Open the Jupyter Notebook
+   - Open the Jupyter Notebook
    ```
    jupyter lab
    ```
