@@ -81,7 +81,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
    ```
    jupyter lab
    ```
-   Navigate to 'data_analytics_capstone_notebook.ipynb' and run the cells to execute the analysis
+   - Navigate to 'data_analytics_capstone_notebook.ipynb' and run the cells to execute the analysis
 
 ## 
 
