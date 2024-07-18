@@ -62,15 +62,14 @@ In this project, the goal is to develop a machine learning model to estimate bod
    ```
 
 2. Activate the environment
-  - On Windows:
-   ```
-   ds-venv\Scripts\Activate
-   ```
-
-  - On macOS and Linux
-   ```
-   source env/bin/activate
-   ```
+     - On Windows:
+      ```
+      ds-venv\Scripts\Activate
+      ```
+     - On macOS and Linux
+      ```
+      source env/bin/activate
+      ```
    
 3. Install the 
    ```
