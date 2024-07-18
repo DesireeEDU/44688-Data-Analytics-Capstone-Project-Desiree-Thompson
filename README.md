@@ -55,16 +55,34 @@ In this project, the goal is to develop a machine learning model to estimate bod
 - `bodyfat.csv`: Original data set
 - `updated_bodyfat.csv`: Modified data set
 
-**Steps:**
-1. Step 1
+**Project Setup and Installation:**
+1. Create a virtual environment
+   ```
+   python3 -m venv ds-venv
+   ```
 
-2. Step 2
+2. Activate the environment
+   On Windows:
+   ```
+   ds-venv\Scripts\Activate
+   ```
 
+   On macOS and Linux
+   ```
+   source env/bin/activate
+   ```
+   
+3. Install the 
    ```
    pip install -r requirements.txt
    ```
 
-3. Run the Program:
+6. Run the Program:
+   Open the Jupyter Notebook
+   ```
+   jupyter lab
+   ```
+   Navigate to 'data_analytics_capstone_notebook.ipynb' and run the cells to execute the analysis
 
    - Item 1
    - Item 2
