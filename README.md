@@ -105,6 +105,14 @@ Employed multiple regression techniques that include:
 
 ![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
 
+**Training and Testing**
+The dataset was split into a training set that consist of 80% and a test set of
+20%. Each model was trained on the same training and test dataset. 
+
+**Results**
+The results were summarized in the following table:
+![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
+
 ## 
 
 **Author:**
