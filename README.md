@@ -83,6 +83,25 @@ In this project, the goal is to develop a machine learning model to estimate bod
    ```
    - Navigate to 'data_analytics_capstone_notebook.ipynb' and run the cells to execute the analysis
 
+## Implementation
+
+**Feature Selection**
+ Upon review of the features that were strongly correlated it was deterined that the following featues have the strongest correlation and potentially predictive ability. 
+  - Abdomen
+  - Biceps
+  - Hip
+  - Neck
+  - Thigh
+
+This is reflected in the correlation coefficients plot
+ ![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
+
+**Model Selction**
+Employed multiple regression techniques that include:
+ - Linear Regression
+ - Polynomial Regression
+ - Elastic Net
+
 ## 
 
 **Author:**
