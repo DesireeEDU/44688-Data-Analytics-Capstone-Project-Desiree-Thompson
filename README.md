@@ -86,6 +86,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
 ## Implementation
 
 **Feature Selection**
+
  Upon review of the features that were strongly correlated it was deterined that the following featues have the strongest correlation and potentially predictive ability. 
   - Abdomen
   - Biceps
@@ -95,15 +96,37 @@ In this project, the goal is to develop a machine learning model to estimate bod
 
 This is reflected in the correlation coefficients plot
 
-![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
+   ![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
 
 **Model Selction**
+
 Employed multiple regression techniques that include:
  - Linear Regression
  - Polynomial Regression
  - Elastic Net
 
-## 
+   ![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
+
+**Training and Testing**
+
+The dataset was split into a training set that consist of 80% and a test set of
+20%. Each model was trained on the same training and test dataset. 
+
+**Results**
+
+The results were summarized in the following table:
+
+   ![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Results%20Table.png)
+
+## Evaluation
+The Elastic Net Degree 8 model with features Neck, Biceps, Abdomen, Hip, and
+Thigh provided the best performance on the test set with an R2 score of 70.18.
+As the goal was to achieve 95% accuracy, the model has not yet reached the
+goal. Overall, none of the models showed a high level of over fitting, but did not
+meet the goal.
+
+
+##
 
 **Author:**
 Desiree Thompson
