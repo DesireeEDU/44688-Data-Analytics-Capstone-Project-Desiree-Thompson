@@ -83,6 +83,14 @@ In this project, the goal is to develop a machine learning model to estimate bod
    ```
    - Navigate to 'data_analytics_capstone_notebook.ipynb' and run the cells to execute the analysis
 
+## Implementation
+
+**Model Selction**
+Employed multiple regression techniques that include:
+ -Linear Regression
+ -Polynomial Regression
+ -Elastic Net
+
 ## 
 
 **Author:**
