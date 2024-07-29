@@ -85,11 +85,22 @@ In this project, the goal is to develop a machine learning model to estimate bod
 
 ## Implementation
 
+**Feature Selection**
+ Upon review of the features that were strongly correlated it was deterined that the following featues have the strongest correlation and potentially predictive ability. 
+  - Abdomen
+  - Biceps
+  - Hip
+  - Neck
+  - Thigh
+
+This is reflected in the correlation coefficients plot
+ ![Correlation Coefficients]
+
 **Model Selction**
 Employed multiple regression techniques that include:
- -Linear Regression
- -Polynomial Regression
- -Elastic Net
+ - Linear Regression
+ - Polynomial Regression
+ - Elastic Net
 
 ## 
 
