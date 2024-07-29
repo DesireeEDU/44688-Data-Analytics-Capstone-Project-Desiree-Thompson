@@ -86,6 +86,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
 ## Implementation
 
 **Feature Selection**
+
  Upon review of the features that were strongly correlated it was deterined that the following featues have the strongest correlation and potentially predictive ability. 
   - Abdomen
   - Biceps
@@ -98,6 +99,7 @@ This is reflected in the correlation coefficients plot
    ![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
 
 **Model Selction**
+
 Employed multiple regression techniques that include:
  - Linear Regression
  - Polynomial Regression
@@ -106,6 +108,7 @@ Employed multiple regression techniques that include:
    ![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
 
 **Training and Testing**
+
 The dataset was split into a training set that consist of 80% and a test set of
 20%. Each model was trained on the same training and test dataset. 
 
