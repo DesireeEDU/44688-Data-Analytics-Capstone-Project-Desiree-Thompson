@@ -94,7 +94,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
   - Thigh
 
 This is reflected in the correlation coefficients plot
- ![Correlation Coefficients]
+ ![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
 
 **Model Selction**
 Employed multiple regression techniques that include:
