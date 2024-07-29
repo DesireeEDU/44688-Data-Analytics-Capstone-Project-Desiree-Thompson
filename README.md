@@ -95,7 +95,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
 
 This is reflected in the correlation coefficients plot
 
-![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
+   ![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
 
 **Model Selction**
 Employed multiple regression techniques that include:
@@ -103,7 +103,7 @@ Employed multiple regression techniques that include:
  - Polynomial Regression
  - Elastic Net
 
-![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
+   ![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
 
 **Training and Testing**
 The dataset was split into a training set that consist of 80% and a test set of
@@ -112,7 +112,7 @@ The dataset was split into a training set that consist of 80% and a test set of
 **Results**
 The results were summarized in the following table:
 
-![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Results%20Table.png)
+   ![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Results%20Table.png)
 
 ## 
 
