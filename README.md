@@ -103,6 +103,8 @@ Employed multiple regression techniques that include:
  - Polynomial Regression
  - Elastic Net
 
+![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
+
 ## 
 
 **Author:**
