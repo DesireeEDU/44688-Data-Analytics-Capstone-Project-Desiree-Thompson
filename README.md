@@ -132,7 +132,7 @@ meet the goal.
 Desiree Thompson
 
 **Date Updated:**
-July 28, 2024
+July 29, 2024
 
 **Acknowledgments:**
 The project utilizes ChatGPT, an AI language model developed by OpenAI, for assistance in writing the README and providing guidance on software engineering practices.
