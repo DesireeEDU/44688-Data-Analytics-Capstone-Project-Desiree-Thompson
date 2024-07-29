@@ -118,7 +118,15 @@ The results were summarized in the following table:
 
    ![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Results%20Table.png)
 
-## 
+## Evaluation
+The Elastic Net Degree 8 model with features Neck, Biceps, Abdomen, Hip, and
+Thigh provided the best performance on the test set with an R2 score of 70.18.
+As the goal was to achieve 95% accuracy, the model has not yet reached the
+goal. Overall, none of the models showed a high level of over fitting, but did not
+meet the goal.
+
+
+##
 
 **Author:**
 Desiree Thompson
