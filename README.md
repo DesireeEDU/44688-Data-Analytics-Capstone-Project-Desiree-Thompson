@@ -96,7 +96,7 @@ In this project, the goal is to develop a machine learning model to estimate bod
 
 This is reflected in the correlation coefficients plot
 
-   ![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
+![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
 
 **Model Selction**
 
@@ -105,7 +105,9 @@ Employed multiple regression techniques that include:
  - Polynomial Regression
  - Elastic Net
 
-   ![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
+The following reflects the code used in training and testing the Linear Regression Model with features Abdomen, Biceps, Hip, Neck and Thigh:
+
+![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
 
 **Training and Testing**
 
@@ -116,7 +118,7 @@ The dataset was split into a training set that consist of 80% and a test set of
 
 The results were summarized in the following table:
 
-   ![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Results%20Table.png)
+![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Results%20Table.png)
 
 ## Evaluation
 The Elastic Net Degree 8 model with features Neck, Biceps, Abdomen, Hip, and
@@ -132,7 +134,7 @@ meet the goal.
 Desiree Thompson
 
 **Date Updated:**
-July 28, 2024
+July 29, 2024
 
 **Acknowledgments:**
 The project utilizes ChatGPT, an AI language model developed by OpenAI, for assistance in writing the README and providing guidance on software engineering practices.
