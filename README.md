@@ -120,6 +120,10 @@ The results were summarized in the following table:
 
 ![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Updated%20Results%20Table.png)
 
+The actual vs predicted values plot shows the distribution of the data between the training and test data set.
+
+![Actual vs Predicted](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Updated%20Results%20Table.png)
+
 ## Evaluation
 The Elastic Net Degree 8 model with features Neck, Biceps, Abdomen, Hip, and
 Thigh provided the best performance on the test set with an R2 score of 70.18.
