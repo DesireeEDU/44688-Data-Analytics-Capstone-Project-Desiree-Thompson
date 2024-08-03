@@ -118,7 +118,11 @@ The dataset was split into a training set that consist of 80% and a test set of
 
 The results were summarized in the following table:
 
-![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Results%20Table.png)
+![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Updated%20Results%20Table.png)
+
+The actual vs predicted values plot shows the distribution of the data between the training and test data set.
+
+![Actual vs Predicted](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Updated%20Results%20Table.png)
 
 ## Evaluation
 The Elastic Net Degree 8 model with features Neck, Biceps, Abdomen, Hip, and
