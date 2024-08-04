@@ -122,6 +122,140 @@ The results were summarized in the following table:
 
 The actual vs predicted values plot shows the distribution of the data between the training and test data set.
 
+# Results
+Results summary for the regression model testing to predict body fat:
+<table>
+  <tr>
+    <th style="border-bottom: 2px solid black;">Model</th>
+    <th style="border-bottom: 2px solid black;">Training Features</th>
+    <th style="border-bottom: 2px solid black;">Train-RMSE</th>
+    <th style="border-bottom: 2px solid black;">Train-R2</th>
+    <th style="border-bottom: 2px solid black;">Test-RMSE</th>
+    <th style="border-bottom: 2px solid black;">Test-R2</th>
+  </tr>
+  <tr>
+    <td>Linear Regression</td>
+    <td>Abdomen</td>
+    <td>4.80</td>
+    <td>67.07</td>
+    <td>5.12</td>
+    <td>61.76</td>
+  </tr>
+  <tr>
+    <td>Linear Regression</td>
+    <td>Neck, Abdomen</td>
+    <td>4.57</td>
+    <td>70.14</td>
+    <td>4.75</td>
+    <td>67.02</td>
+  </tr>
+  <tr>
+    <td>Linear Regression</td>
+    <td>Neck, Biceps, Abdomen, Hip, Thigh</td>
+    <td>4.38</td>
+    <td>72.53</td>
+    <td>4.60</td>
+    <td>69.09</td>
+  </tr>
+  <tr>
+    <td>Polynomial Regression degree 3</td>
+    <td>Abdomen</td>
+    <td>4.56</td>
+    <td>70.21</td>
+    <td>5.18</td>
+    <td>60.89</td>
+  </tr>
+  <tr>
+    <td>Polynomial Regression degree 3</td>
+    <td>Neck, Abdomen</td>
+    <td>4.36</td>
+    <td>72.86</td>
+    <td>4.86</td>
+    <td>65.54</td>
+  </tr>
+  <tr>
+    <td>Polynomial Regression degree 3</td>
+    <td>Neck, Biceps, Abdomen, Hip, Thigh</td>
+    <td>3.63</td>
+    <td>81.16</td>
+    <td>5.14</td>
+    <td>61.45</td>
+  </tr>
+  <tr>
+    <td>Polynomial Regression degree 8</td>
+    <td>Abdomen</td>
+    <td>4.55</td>
+    <td>70.33</td>
+    <td>5.14</td>
+    <td>61.56</td>
+  </tr>
+  <tr>
+    <td>Polynomial Regression degree 8</td>
+    <td>Neck, Abdomen</td>
+    <td>4.61</td>
+    <td>69.60</td>
+    <td>6.64</td>
+    <td>35.82</td>
+  </tr>
+  <tr>
+    <td>Polynomial Regression degree 8</td>
+    <td>Neck, Biceps, Abdomen, Hip, Thigh</td>
+    <td>5.25</td>
+    <td>1.0</td>
+    <td>1566.61</td>
+    <td>-35770.51</td>
+  </tr>
+  <tr>
+    <td>Elastic Net degree 8</td>
+    <td>Abdomen</td>
+    <td>4.56</td>
+    <td>70.23</td>
+    <td>5.18</td>
+    <td>60.91</td>
+  </tr>
+  <tr>
+    <td>Elastic Net degree 8</td>
+    <td>Neck, Abdomen</td>
+    <td>4.36</td>
+    <td>72.82</td>
+    <td>4.85</td>
+    <td>65.71</td>
+  </tr>
+  <tr style="background-color: #ffffe0;">
+    <td>Elastic Net degree 8</td>
+    <td>Neck, Biceps, Abdomen, Hip, Thigh</td>
+    <td>4.14</td>
+    <td>75.54</td>
+    <td>4.52</td>
+    <td>70.18</td>
+  </tr>
+  <tr>
+    <td>Pipelined Linear Regression - Poly 4</td>
+    <td>Abdomen</td>
+    <td>4.56</td>
+    <td>70.24</td>
+    <td>5.18</td>
+    <td>60.88</td>
+  </tr>
+  <tr>
+    <td>Pipelined Linear Regression - Poly 4</td>
+    <td>Neck, Abdomen</td>
+    <td>4.33</td>
+    <td>73.18</td>
+    <td>4.85</td>
+    <td>65.70</td>
+  </tr>
+  <tr>
+    <td>Pipelined Linear Regression - Poly 4</td>
+    <td>Neck, Biceps, Abdomen, Hip, Thigh</td>
+    <td>2.77</td>
+    <td>89.00</td>
+    <td>70.99</td>
+    <td>-72.46</td>
+  </tr>
+</table>
+
+
 ![Actual vs Predicted](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Actual%20vs%20Predicted%20%20-%20Elastic%20Net%20Degree%208.png)
 
 ## Evaluation
