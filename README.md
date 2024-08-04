@@ -104,6 +104,7 @@ Employed multiple regression techniques that include:
  - Linear Regression
  - Polynomial Regression
  - Elastic Net
+ - Pipelined Linear Regression
 
 The following reflects the code used in training and testing the Linear Regression Model with features Abdomen, Biceps, Hip, Neck and Thigh:
 
