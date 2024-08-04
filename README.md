@@ -246,10 +246,9 @@ Results summary for the regression model testing to predict body fat:
     <td>70.99</td>
     <td>-72.46</td>
   </tr>
-</table>
+</table><br><br>
 
 The actual vs predicted values plot shows the distribution of the data between the training and test data set.<br><br>
-
 
 ![Actual vs Predicted](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Actual%20vs%20Predicted%20%20-%20Elastic%20Net%20Degree%208.png)
 
