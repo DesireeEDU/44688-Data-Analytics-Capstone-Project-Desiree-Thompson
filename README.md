@@ -98,7 +98,7 @@ This is reflected in the correlation coefficients plot
 
 ![Correlation Coefficients](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Correlation%20Matrix.png)
 
-**Model Selction**
+**Model Selection**
 
 Employed multiple regression techniques that include:
  - Linear Regression
@@ -106,11 +106,11 @@ Employed multiple regression techniques that include:
  - Elastic Net
  - Pipelined Linear Regression
 
+**Training and Testing**
+
 The following reflects the code used in training and testing the Linear Regression Model with features Abdomen, Biceps, Hip, Neck and Thigh:
 
 ![Sample Linear Regression Code](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Sample%20Linear%20Regression%20Code.png)
-
-**Training and Testing**
 
 The dataset was split into a training set that consist of 80% and a test set of
 20%. Each model was trained on the same training and test dataset. 
