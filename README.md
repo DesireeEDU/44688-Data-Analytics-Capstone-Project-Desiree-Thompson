@@ -116,10 +116,6 @@ The dataset was split into a training set that consist of 80% and a test set of
 
 **Results**
 
-The results were summarized in the following table:
-
-![Results Table](https://github.com/DesireeEDU/44688-Data-Analytics-Capstone-Project-Desiree-Thompson/blob/main/Updated%20Results%20Table.png)
-
 Results summary for the regression model testing to predict body fat:
 <table>
   <tr>
